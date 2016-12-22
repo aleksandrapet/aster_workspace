@@ -1,0 +1,7 @@
+wheel
+pyserial
+psycopg2
+matplotlib
+numpy
+plotly
+pyqtgraph
